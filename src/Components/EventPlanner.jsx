@@ -56,7 +56,7 @@ const EventPlanner = () => {
             </section>
             <section className="testimonials">
                 <h2>Testimonials</h2>
-                <div className="testimonials">
+                <div className="testimonial">
                     <p>"Event Planner made organizing my wedding a breeze. Highly recommended!"</p>
                     <p className="author">- Emily Johnson</p>
                 </div> 
